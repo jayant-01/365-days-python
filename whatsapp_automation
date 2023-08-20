@@ -1,0 +1,8 @@
+import pywhatkit
+
+# Send a WhatsApp Message to a Contact at 1:30 PM
+pywhatkit.sendwhatmsg("<enter you number>", "<enter your message>", "<enter the hour time to send the message > this should be in int", "<enter the min hand time to send the message>")
+
+# Send a WhatsApp Message to a Contact at 1:30 PM so type
+
+# pywhatkit.sendwhatmsg("+911264561561", "Hello", 13, 30)
